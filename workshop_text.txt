@@ -1,0 +1,5 @@
+This mod simply c onverts your Sapiens game to black and white... for whatever reason!
+
+As far as I am aware this is the first shader-based mod available on the workshop! Please enjoy this proof-of-concept. 
+
+If you want to get in contact, join the discord: https://discord.gg/WnN8hj2Fyg
